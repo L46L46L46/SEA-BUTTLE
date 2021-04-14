@@ -20,3 +20,5 @@
 https://coreer.wordpress.com/2011/04/14/разница-между-internetip-sockets-и-unix-domain-sockets/
 https://vk.com/away.php?to=https%3A%2F%2Fitsecforu.ru%2F2018%2F12%2F27%2F%EA%E0%EA-%EE%F2%EA%F0%FB%F2%FC-%F1%EE%EA%E5%F2-tcp-udp-%E2-%EE%E1%EE%EB%EE%F7%EA%E5-bash%2F&cc_key=
 https://vk.com/away.php?utf=1&to=https%3A%2F%2Fwww.opennet.ru%2Fman.shtml%3Ftopic%3Dip%26category%3D7%26russian%3D0
+
+https://gist.github.com/todoshcenko/21f82bae5d5bbd89258d2949ee10812d
